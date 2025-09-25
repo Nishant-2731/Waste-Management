@@ -18,9 +18,3 @@ pnpm-debug.log*
 # Build output
 dist
 client/dist
-
-# Env files
-.env.local
-.env.*.local
-server/.env
-server/.env.local
